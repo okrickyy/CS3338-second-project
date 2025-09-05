@@ -1,0 +1,35 @@
+commit c23847f962d796765b1a55ba8d7964225fc0da23
+Author: Okrickyy <Ricardoibanezjr@icloud.com>
+Date:   Thu Sep 4 20:58:50 2025 -0700
+
+    Resolve merge conflict
+
+commit 8307bff4102c064866af08091a30ad8af3072d34
+Author: Okrickyy <Ricardoibanezjr@icloud.com>
+Date:   Thu Sep 4 20:55:43 2025 -0700
+
+    Index-fix: add python/java div
+
+commit 19ffbc91b4ea1aa2dfeb35070da23d5af392800c
+Author: Okrickyy <Ricardoibanezjr@icloud.com>
+Date:   Thu Sep 4 20:54:29 2025 -0700
+
+    Main: add favorite food div at conflict marker
+
+commit a52610111fc51b328cabe76fdc93ae96869cd309
+Author: Okrickyy <Ricardoibanezjr@icloud.com>
+Date:   Thu Sep 4 20:52:29 2025 -0700
+
+    Add readme with ttitle
+
+commit 5b741e36f7cc92850a0ccebfafb9a25efa62f9c2
+Author: Okrickyy <Ricardoibanezjr@icloud.com>
+Date:   Thu Sep 4 20:44:44 2025 -0700
+
+    Filled in the two blanked in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
